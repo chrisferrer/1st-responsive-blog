@@ -44,6 +44,11 @@ body {
   margin-right: 20px;
 }
 
+.btn-lg-other {
+  padding: 14px 20px;
+  margin-left: 20px;
+}
+
 /* Navigation */
 .navbar {
   background-color: rgb(51,122,183);
